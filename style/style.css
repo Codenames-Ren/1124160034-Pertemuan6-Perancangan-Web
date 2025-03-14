@@ -17,3 +17,7 @@ th {
   font-size: 18px;
   text-align: center;
 }
+
+td:nth-child(1) {
+  text-align: center;
+}
